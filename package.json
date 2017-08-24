@@ -1,0 +1,19 @@
+{
+  "name": "customreport",
+  "version": "0.0.1",
+  "description": "custom report for newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennisgroep-testautomatisering/custom_report.io.git"
+  },
+  "author": "Matthijs Risselada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennisgroep-testautomatisering/custom_report.io/issues"
+  },
+  "homepage": "https://github.com/kennisgroep-testautomatisering/custom_report.io#readme"
+}
